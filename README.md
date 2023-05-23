@@ -9,3 +9,5 @@
 - 好多肉眼可见的bug，先用吧...
 
 因为 github 限制单文件上传 2GB，而因为我把推理文件放到客户端包里了，所以超过了，只能挂个链接
+
+下载链接：https://aria-fm.tools.begreat.top/files/share/2XT9ORXh
