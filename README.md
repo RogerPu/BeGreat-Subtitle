@@ -11,4 +11,4 @@
 
 因为 github 限制单文件上传 2GB，而因为我把推理文件放到客户端包里了，所以超过了，只能挂个链接，源代码后面我拆解一下推理文件再传上来
 
-下载链接：[https://aria-fm.tools.begreat.top/files/share/2XT9ORXh]([https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l](https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l])
+下载链接：https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l
