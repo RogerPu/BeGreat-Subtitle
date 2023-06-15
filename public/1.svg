@@ -1,0 +1,14 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Verdana" font-size="35" fill="black">
+        N
+    </text>
+    <text x="50%" y="70%" dy=".3em" text-anchor="middle" font-family="Verdana" font-size="35" fill="blue">
+        D
+    </text>
+    <text x="50%" y="90%" dy=".3em" text-anchor="middle" font-family="Verdana" font-size="35" fill="red">
+        M
+    </text>
+    <text x="50%" y="110%" dy=".3em" text-anchor="middle" font-family="Verdana" font-size="35" fill="green">
+        H
+    </text>
+</svg>

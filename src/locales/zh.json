@@ -1,0 +1,17 @@
+{
+    "welcome": "欢迎",
+    "greeting": "你好",
+    "download_tips": "识别模型下载检查(模型3GB,请耐心等待下载）",
+    "dl_success_tips": "下载成功",
+    "md5_tips": "文件唯一MD5值:",
+    "md5_correct": "正确MD5:94967a3307ecc7de1a497a43a2bd4103,\n有错误请到存放目录删除magic.bin重新识别下载",
+    "choose_file": "选择视频文件（支持所有语言）",
+    "choosed_file": "选中文件:",
+    "output_file": "请选择生成语言",
+    "start_gen_sub": "开始生成字幕",
+    "open_store_dir": "打开存放目录",
+    "donate": "捐助",
+    "processing_tips": "处理中(15分钟视频macOS预计15分钟,Windows预计30分钟,请耐心等待)",
+    "process_result": "处理结果",
+    "sw_title": "新大美好字幕君"
+  }

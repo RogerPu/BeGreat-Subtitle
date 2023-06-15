@@ -1,0 +1,18 @@
+{
+    "welcome": "Welcome",
+    "greeting": "Hello",
+    "download_tips": "Check and download AI model(size:3GB, please wait)",
+    "dl_success_tips": "Download successful",
+    "md5_tips": "Unique MD5:",
+    "md5_correct": "Correct MD5: 94967a3307ecc7de1a497a43a2bd4103. If any errors, pls go to the storage Dir, delete 'magic.bin' and re-download",
+    "choose_file": "Select video file (supports all languages)",
+    "choosed_file": "Selected file:",
+    "output_file": "Desired language",
+    "start_gen_sub": "start Gen subtitles",
+    "open_store_dir": "Open the storage Dir",
+    "donate": "Donate",
+    "processing_tips": "Processing (Estimated time: 15 minutes for macOS, 30 minutes for Windows. Please be patient and wait.)",
+    "process_result": "Processing Rusult",
+    "sw_title": "BeGreat-Subtitle"
+  }
+  
