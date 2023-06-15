@@ -11,6 +11,6 @@
 - 目前只能保证一条道走到黑能用，没有考虑太多异常流
 - 好多肉眼可见的bug，先用吧...
 
-因为 github 限制单文件上传 2GB，而因为我把推理文件放到客户端包里了，所以超过了，只能挂个链接，源代码后面我拆解一下推理文件再传上来
 
-下载链接：https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l
+3.0版本在release下载
+2.0版本的下载链接：https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l
