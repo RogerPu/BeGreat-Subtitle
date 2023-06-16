@@ -1,22 +1,22 @@
 
 BeGreat-Subtitle
+New BeGreat-Subtitle Updates on June 16th:
+1. Added English version, currently supporting bilingual (Chinese-English) functionality.
+2. Increased language support from 2 to 7 languages.
+3. Added independent model downloads to reduce software size.
 
-Advantages: The overall accuracy of recognition surpasses that of other products on the market, such as Premiere Pro. Although the improvement in precision is probably around 10-20%, it is the most crucial enhancement. It's safe to say that it outshines others, especially when dealing with a mix of Chinese and English and eliminating various unnecessary phrases like "ah," "um," and so on, as well as ensuring accurate professional terminology.
+Download Notice:
+Version 3.0: Download from the release section and separately download the model file for Mac Apple chips. Supports Mac Intel chips, not compatible with Windows.
+Version 2.0: Can be directly used after downloading, no need to download the model separately. Due to file size exceeding GitHub's limit, please download from here: [link to download page]
 
-Platform support: macOS ARM, others are still being compiled and packaged.
+Software Advantages:
+  The overall accuracy of recognition surpasses other products on the market such as Jianying. Although the precision improvement may be around 10-20%, it is the most critical enhancement. It is not an exaggeration to say that it surpasses the competition, especially when it comes to handling mixed Chinese-English text and accurately recognizing professional terminology.
 
-Backend: OpenAI Whisper.
+Platform Support: Mac Intel(2.0), Mac Apple Silicon(2.0/3.0), Windows(2.0/3.0)
+Backend: OpenAI Whisper
+Framework: Electron + Vue3
+Price: Completely free, powered by love
 
-Framework: electron+vue3.
-
-Pricing: Completely free, fueled by love.
-
-To-do list:
-
-Currently, we can only guarantee basic functionality, without considering too many exceptional cases.
-
-There are many visible bugs, but let's use it for now...
-
-Due to GitHub's limit of 2GB for single file uploads, and since I've included the inference file in the client package, it exceeded the limit. Therefore, I can only provide a download link. I will break down the inference file and upload it separately after the source code.
-
-Download link: https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l
+To-do List:
+  Currently, we can only guarantee basic functionality and haven't considered many exceptional scenarios.
+  There are many visible bugs, but let's start using it for now...
