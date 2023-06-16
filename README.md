@@ -1,4 +1,4 @@
-新大美好字幕君 BeGreat-Subtitle
+新大美好字幕君 BeGreat-Subtitle  [English Documention](./README_en.md)
 
 6月16日更新：
 1、增加英文版，目前支持中英双语言
