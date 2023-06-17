@@ -19,7 +19,6 @@
 | 2.0     | ✅      | ❌        | ✅      | 3GB   | ✅软件内置，无需下载 |
 
 ⚠️识别速度：10min视频为例，Windows速度慢需20min以上，Mac需10min以内
-![Alt text](image.png)
 
 下载地址：
 
