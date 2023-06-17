@@ -2,6 +2,12 @@
 
 新大美好字幕君（BeGreat-Subtitle）
 
+<p float="left">
+  <img src="public/WX20230614-234307@2x.png" width="29%" />
+  <img src="public/WX20230614-234338@2x.png" width="25%" /> 
+  <img src="public/WX20230614-234524@2x.png" width="30%" />
+</p>
+
 6月16日更新：
 
 - 增加英文版，目前支持中英双语言
@@ -14,7 +20,7 @@
 | 2.0     | ✅      | ❌        | ✅      | 3GB   | ✅软件内置，无需下载 |
 
 ⚠️识别速度：10min视频为例，Windows速度慢需20min以上，Mac需10min以内
-
+![Alt text](image.png)
 
 下载地址：
 
