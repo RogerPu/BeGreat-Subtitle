@@ -1,5 +1,11 @@
 BeGreat-Subtitle
 
+<p float="left">
+  <img src="public/WX20230614-234307@2x.png" width="29%" />
+  <img src="public/WX20230614-234338@2x.png" width="25%" /> 
+  <img src="public/WX20230614-234524@2x.png" width="30%" />
+</p>
+
 Update on June 16th:
 - Added English version, now supporting bilingual (Chinese and English) languages.
 - Increased language options from 2 to 7.
