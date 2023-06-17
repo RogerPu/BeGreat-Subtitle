@@ -10,6 +10,8 @@ Update on June 16th:
 | 3.0 | ✅ | ❌ | ✅ | 100MB | ❌ Requires separate download within the software |
 | 2.0 | ✅ | ❌ | ✅ | 3GB | ✅ Built-in, no additional download required |
 
+⚠️ Recognition Speed: Taking a 10-minute video as an example, the recognition speed on Windows may take more than 20 minutes, while on Mac it will be within 10 minutes.
+
 Download links:
 - Version 3.0: Available on the release page.
 - Version 2.0: Due to file size exceeding GitHub limits, please visit the following cloud storage link: [https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l](https://aria-fm.tools.begreat.top/files/share/Vwaqyx7l)
